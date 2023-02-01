@@ -455,13 +455,15 @@ body {
 .table-column .t-est,
 .table-column .t-cet,
 .table-column .t-cst,
-.table-column .t-jst {
+.table-column .t-jst,
+.table-column .t-pst {
   display: none;
 }
 .cet .table-column .t-cet,
 .est .table-column .t-est,
 .cst .table-column .t-cst,
-.jst .table-column .t-jst {
+.jst .table-column .t-jst,
+.pst .table-column .t-pst {
   display: initial;
 }
 .table-column select {
